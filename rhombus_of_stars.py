@@ -15,6 +15,8 @@ for row in range(n - 1, 0, - 1):
     print("*")
 
 '''
+First part:
+
 This code creates a triangle of stars with a size defined by the user through the input parameter "n".
 
 The first line of the code reads an integer from standard input (using the input() function) and stores 
@@ -34,4 +36,9 @@ After the inner loop completes, the final line of the current triangle is output
 using the "print('*')" function. This line represents a single star at the end of each row.
 
 The code continues in this manner until all rows of the triangle have been output.
+
+Second part:
+
+Then, we use the same code for second part - inverted triangle.
+We have to edit only the first row - as you can seen in the example /row 10/.
 '''
