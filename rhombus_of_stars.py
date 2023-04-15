@@ -17,6 +17,8 @@ for row in range(n - 1, 0, - 1):
 '''
 First part:
 
+n - this is a variable which collect an integer determining the rows.
+
 This code creates a triangle of stars with a size defined by the user through the input parameter "n".
 
 The first line of the code reads an integer from standard input (using the input() function) and stores 
